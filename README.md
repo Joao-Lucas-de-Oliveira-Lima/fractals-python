@@ -6,13 +6,12 @@ Before running the project, make sure you have the following installed:
 - [Python 3](https://www.python.org/) (Version 3.6 or higher)
 
 ## Running the Code
-1. Clone or download the project repository.
-2. Navigate to the root directory of the project in the terminal.
-3. Run one of the available scripts using the command:
+1. Open a terminal and navigate to the project's root directory.
+2. Run a script with the following command:
 ```bash
 python -u fractals/<script_name>.py
 ```
-Replace `<script_name>` with the name of the script you want to run (e.g., `binary_tree.py` or `squares.py`).
+>Replace `<script_name>` with the name of the script you want to run (e.g., `binary_tree.py` or `squares.py`).
 ## Visual Examples
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
