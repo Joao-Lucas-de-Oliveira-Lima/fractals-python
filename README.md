@@ -1,4 +1,4 @@
-# Fractals with Python
+# Fractals with Python 🌌
 This project is a challenge to practice recursive algorithms in the **Data Structures** course. It reimplements an earlier version I developed in **C++** using the **SFML 2.5.1** library, now adapted for **Python** with the `turtle` library.
 
 ## Prerequisites
